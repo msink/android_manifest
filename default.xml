@@ -14,8 +14,8 @@
     <copyfile src="../.repo/manifests/buildspec.mk" dest="buildspec.mk" />
   </project>
   <project path="device/ebook" name="android_device_ebook" remote="msink" revision="master" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="msink" revision="rk30sdk" />
-  <project path="packages/apps/Settings" name="android_packages_apps_settings" remote="msink" revision="rk30sdk" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="msink" revision="rk30+onyx" />
+  <project path="packages/apps/Settings" name="android_packages_apps_settings" remote="msink" revision="rk30+onyx" />
 
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
   <project path="bionic" name="platform/bionic" groups="pdk" />
