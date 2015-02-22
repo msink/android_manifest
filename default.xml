@@ -15,17 +15,17 @@
   </project>
   <project path="device/ebook" name="android_device_ebook" remote="msink" revision="master" />
   <project path="external/apache-http" name="android_external_apache-http" remote="msink" revision="rk29sdk" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="msink" revision="refs/tags/onyx_rk29-20140610" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="msink" revision="refs/tags/onyx_rk29-20150116" />
   <project path="libcore" name="android_libcore" remote="msink" revision="rk29sdk" />
   <project path="packages/apps/AccountsAndSyncSettings" name="android_packages_apps_accountsandsyncsettings" remote="msink" revision="rk29sdk" />
-  <project path="packages/apps/Browser" name="android_packages_apps_browser" remote="msink" revision="refs/tags/onyx_rk29-20140610" />
-  <project path="packages/apps/Calendar" name="android_packages_apps_calendar" remote="msink" revision="refs/tags/onyx_rk29-20140610" />
+  <project path="packages/apps/Browser" name="android_packages_apps_browser" remote="msink" revision="refs/tags/onyx_rk29-20150116" />
+  <project path="packages/apps/Calendar" name="android_packages_apps_calendar" remote="msink" revision="refs/tags/onyx_rk29-20150116" />
   <project path="packages/apps/CertInstaller" name="android_packages_apps_certinstaller" remote="msink" revision="rk29sdk" />
-  <project path="packages/apps/Gallery" name="android_packages_apps_gallery" remote="msink" revision="refs/tags/onyx_rk29-20140610" />
+  <project path="packages/apps/Gallery" name="android_packages_apps_gallery" remote="msink" revision="refs/tags/onyx_rk29-20150116" />
   <project path="packages/apps/Music" name="android_packages_apps_music" remote="msink" revision="rk29sdk" />
-  <project path="packages/apps/PackageInstaller" name="android_packages_apps_packageinstaller" remote="msink" revision="refs/tags/onyx_rk29-20140610" />
-  <project path="packages/apps/Settings" name="android_packages_apps_settings" remote="msink" revision="refs/tags/onyx_rk29-20140610" />
-  <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_latinime" remote="msink" revision="refs/tags/onyx_rk29-20140610" />
+  <project path="packages/apps/PackageInstaller" name="android_packages_apps_packageinstaller" remote="msink" revision="refs/tags/onyx_rk29-20150116" />
+  <project path="packages/apps/Settings" name="android_packages_apps_settings" remote="msink" revision="refs/tags/onyx_rk29-20150116" />
+  <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_latinime" remote="msink" revision="refs/tags/onyx_rk29-20150116" />
   <project path="packages/providers/CalendarProvider" name="android_packages_providers_calendarprovider" remote="msink" revision="rk29sdk" />
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_downloadprovider" remote="msink" revision="rk29sdk" />
   <project path="packages/providers/MediaProvider" name="android_packages_providers_mediaprovider" remote="msink" revision="rk29sdk" />
